@@ -1,2 +1,2 @@
-# helice
+# Hélices
 Web graphique
